@@ -1,0 +1,46 @@
+Greetings from Great Learning!
+
+As you start your learning journey in the MIT- Applied Data Science Program (ADSP) in the January 2024 cohort, here are a few next steps for you:
+
+1. We have enrolled you in the Learning Management System, [Olympus](http://url8490.mygreatlearning.com/ls/click?upn=bKGb1FbIBNoISouN37USpRCf3RvBLzP90vgh1YA8uYEXF3bOeBRV4aS7ThN6pyWzOYnsUrOrc2jTK8IUcDBllW-2FzGophshm3Mk8mLcbCrx1wn9C2JZGlJgFJ9dUwO4aW3x1hSR4ct3bRmO-2BQFxyUfRQKDQiKl4h5mo-2FmIR2lr6uSGR-2FovqJO2iUtS95BpEELcshzZO3gMEMk-2BRcuNUgbMiu5Hs34dAYeRBkpvlEoyzblr5SlHlwvHUQitk4laA4BayojTkJWRJ994DAMl-2FYEiRTSxGraWhIbD8ckkPc6i1Q70nEayAeBx0Z7z0FzpyG7aXOH43IGemY9BL3qqMJ3XVSaPEl8Skn3HBnjD-2BWsSEa55Ps3uvStpOTJa8EFRnBylpsiGratKSSo3J5yyHAVaDNLx8uYnLdhuJlN7Pzb1WrqlPcNV-2FFN8DCUj52GpNtotPXG0manhDnhL7jkznybNVqY6lQpqOj0HlNO7YgNvWHxTgVrNCJ4oy-2Fm9RuJ4WmyCQgIj-2BXoWpaDlhFB7iav3q33ZNxh123LHadXvKjs-2Bv33uatE8aLkb-2BXIx2ORtID-2Fnem-2BmsFP5GviqE2qhtZxrxsbjkD3UJxzUKFDCUUBXCVHQt0Pq8-2F6lO8HivDNGsC7T6KOOsLxGBDuisdEw7kv6tCyraDjNbAa9g1BhKW3-2FrJzfYmHFMlb2wlc-2F7eAXWVMZuFoyxjSRZ2gpbZmti6uFTQnd0DktFAcsMHkjUgohm-2FPWlawe7VATpkZa86zV-2FFKUMRFY8tgVDsyXDhSISq7kJwp4Z05ehf47GlkJDMijyWhbMXyydntR3Nq7LLUdpkPXVy9hEj-2B5XvqLAHhnZZgv8Md3vlTMkAL6Ia6mHpvqkyXK-2BdhqU3VJsNvGzHF05PYnZIgX3lTFjsRBmzeq3kcM97QDX0RfOuV3HY3PsQg3jgDaX-2F6CrROGwxxKbZNUb9WtTOc-2BBMvX-2BWFEO06WpN3vBRHJLRhrq2YHiOX4tqYe-2BckRVzU0jKwnwR8p4qYo2pX6Zktu7UhW1emZ1e-2FMSThRNrpDUJ-2FUxHNLNlhm5saSSdURdos3vDFkknof9DDDSNch4iObMc1W-2BtZZZD2DlPHzd7BJLCzl03vA60YbYKxYDyiN9nL-2F1bnkfVDw2BLEOe-2BV3N9LSGK0OW-2BGiG9aSWHTsSqFVy3g0GIlUzl3iuz60lZsp-2BPcRNyp3w3npn9rh7eqKls_rVVNwPqjQ2kDtBt7CMjjpN33Si6hatQ4UN2i5gIA2UB2MzdH-2Br-2BflXRAexvXi5TlPcTMPSo-2Fj51zJ-2Fy7VnOGQBMWu7O4uyl9Zll119qCe8-2FtqZCJeRUqI17XvdkPT84AflPSzCRiDs68IKjwmlMrtN-2FDg9ExL65yE5TzhzJFEd-2FOJfvYLQCDJabolAu3dNO5S6LuNngAYkI25JTIaRHBG3oCVErsnqGq41Uk5q9gFCV2d2ahKAdOkhNEOCbRJg-2BrxM6EpIuEeU8uZturDOGf4upKTK0EvE0hF8BhSLCewTZrHtn1Nk-2BpftDah27PPBHH). 
+    
+
+1. To access Olympus, please use your existing credentials used at the application stage. You may also choose to reset the password from the 'forgot password?' option
+    
+2. Kindly update your time zone on Olympus as per your geographical location.
+    
+
+2. On Olympus, you have access to the "[Program Overview](http://url8490.mygreatlearning.com/ls/click?upn=GbJuAhH6Xpe0bJ2mNWagrrmb6EarJGnpG1n51Wqt5QJbrYzepzi-2FBzWO8B0rduIYjFam2bbxWoIYR4nYQgs9bQ-3D-3DHU77_rVVNwPqjQ2kDtBt7CMjjpN33Si6hatQ4UN2i5gIA2UB2MzdH-2Br-2BflXRAexvXi5Tl0w6GEVo682Eu4lCiq148xs6d6IBwvPYLQ0jllzd1PloVIvz-2FgTio9rYnJTZE-2BhUGuOFtBRH6SuJjDccLv8Xl3a0rA1rLQkVKt-2BED-2F3jJjPtMuEnaFAQTU9oOPyLcRoml9ppQJtNFMk7nu8sESxEU1KmBTVJzREmWgCz7PU9qbcyV8eCnVEYSIPLqRqc1heH6V9Ei8JvEcZHaO8Eg7iRW-2BzpYC19dkA6GDayJ3D1tKKsHujmLaII3N0y2pCObLGkR)" and "[Pre-work](http://url8490.mygreatlearning.com/ls/click?upn=GbJuAhH6Xpe0bJ2mNWagrrmb6EarJGnpG1n51Wqt5QJbrYzepzi-2FBzWO8B0rduIYi0uXtHoXnpcbsE7pS6S4lQ-3D-3DRYXY_rVVNwPqjQ2kDtBt7CMjjpN33Si6hatQ4UN2i5gIA2UB2MzdH-2Br-2BflXRAexvXi5TliAYRrzLYPDMhIocFkgBO-2B2hUlbs7TQPPXIxPYQfdpyGCx7fCgMp-2Fr9mg9VnyDaSOZ8HN3uy0tDH8cdtxmGVuyAItFuzKK1IkAhjbiNXM18C5-2B1fLHfsN0uVRv7rQKLcmpaXrKSMLIz5wUL4hMFDLdyNZLu5vSrmnM4X0DUMG-2B1GR-2FAAO9R1VXjZnVs6yyrxJYzyF8CYoeniM3UdnGIVQ-2B85cpECTDfKjfJYxLiXyWPfgQKqOwm3rMq5AvWMYBzNW)"  courses
+    
+
+- Program Overview will help you with details of the delivery schedule and orientation - Go through it to have a better understanding of the program
+    
+- Pre-work is aimed at providing an introduction to Python and Statistics, especially for learners who are new to the world of programming. Please complete the pre-work course at the earliest.
+    
+
+4. The program commences with an Orientation session, which will be held on Saturday, January 13th, 2024. 
+    
+5. Connecting with the Program Manager: Please select a convenient time slot [here](http://url8490.mygreatlearning.com/ls/click?upn=TUhBB2YprIZN8GIlnEbmfZLbnO31LaGeXxZFRrZe4D7OT0RlCFlpCcjhygI9drgLbt-P_rVVNwPqjQ2kDtBt7CMjjpN33Si6hatQ4UN2i5gIA2UB2MzdH-2Br-2BflXRAexvXi5TlG9YJzwQ9oBRa5Niq5l5zGCN78Npvn2NkBPPZ0mcLqEpKum4Mk65w8hy-2FzINwX6nV6VdxjCbc5guKfOlDIMqQ67Q9Ukxj4MnlDVaq03tIKbiWXs3WZ7gwQYZFhTlaYkX-2BSgid8iFrhpezTSMZS4nbeOsx8FbsRD68zvAR6wW4drNB7IIx2mXy-2B90uIyScq-2BRMWBELHLDugm5tMFRGIThT0ZG7lD4RglMP-2FgY83lRbqSV-2B0pFqroFQqhn9hopsqqSx) as per your availability between 7:00 AM to 3:00 PM EST (Mon to Sat) for an introductory call with the Program Office team. If we fail to hear from you on your preferred time slot, the program office team shall call you from  +1-6177415853  (US) in 3-4 working days.
+    
+6. Alternatively, you can also connect with us through the below channels:  
+      
+    
+
+- Email: In case of any queries or concerns, please write to us at [office.adsp.mit@mygreatlearning.com](mailto:office.adsp.mit@mygreatlearning.com) 
+    
+- Raise a Support Request through the '[Need Assistance](http://url8490.mygreatlearning.com/ls/click?upn=bKGb1FbIBNoISouN37USpRCf3RvBLzP90vgh1YA8uYEXF3bOeBRV4aS7ThN6pyWzOYnsUrOrc2jTK8IUcDBllW-2FzGophshm3Mk8mLcbCrx1wn9C2JZGlJgFJ9dUwO4aW3x1hSR4ct3bRmO-2BQFxyUfaJBV8b0VSdeyRR0n0GXMVAXNpTQ6rkAkEkz-2BLD0niKnGp9q7zzxtC4Ye-2FYVvdbtdXZ2dTi9egpeMEIKMdFQuEe5UysY3b56CwvqPOp-2Bohn7MJDbRWWtpIfdzmYaHgRdmaMfQBljyb67gensWugYFPrlsBo6LdK8cfZMfBI599xD-2BWDwLuyHnGgV5NXEh2Si4G0Sp9-2FT0qKG9B0aQAatwIOjfMQvoEycf-2F8bL9daSga8z1M1-2B16M7kEq4M-2Fx-2F5-2B53aT5IsVM-2FdIXeLt37JLZNIK7qrcHRMRj4FRXfJHHdo39j-2BVqDzA9j94yda921xIWt7ooul31Ycy5Df3lsd7pga7BJ0y5C70E45-2Fru2CZu8TauHti4w-2Ba2seiocG2EQcTUF5SCCtCrQXIJyKF5Jh2B4WpAaBPjdBs-2BuF-2BSuIVYAzz8v17OC1q6zFC1FJe0-2F8lZndM9OUvsLD5h9Qn1jJg7C-2Fqzc2CpMDyHNW6zHSplynsXwkGZZI1WVApuiNk4ScCvMLhI6QfbBtv-2Fq59ZB7txGVqH15ThEXpjFYfHALd-2FySuc90IAXAEZT1G8ceOTWe7eLNSXMKHJa8WkuN-2B5SWZ5fCEC3S4g7zkz1aQ989IkdiCM-2B7jvCQgRues4pLPnmq3kBBhBdLMuycMO5g4VRaxdG5Av-2BrLwNwPhhIJZFYh0pI2HRNj1AKSqDPJfpNo8hjhv4rd6lflcvWpLDEZj4dknzsUCaT1tn261Jy3QvYRBTkT06CdHP-2BjRMdGgKOofudXRgB3u6cwPBn2L1pzrOn6bnL8Lt1ak7zSjr2LB9FIA8xooXGbjoRbdKaASYpVBUMU-2FQ2LkZfyTVwvuu-2FXbU9KTX6O8EsN41i-2BxloVbQdcYNFIScf79yew00UWCZrIYKFfj5u379aiUM1u5cKvPRbq-2BMllbIwd6jPQqvs6fhn-2FUZ9SQx4FvFUZggnOcLl8c8jtJAsfsS-2FHCkqYP6Q1hDKJc91a21yVdMM0PhVO46OLLgPTrA6uIhvJpgHpR6jUThvzZZUhAfYczWqLH0fUz8CVeQxmgYPVa-2FekqHxhqOkyMhuzBo-2FOstb3KWQraEys-2F7h4WA-3D-3DtWBc_rVVNwPqjQ2kDtBt7CMjjpN33Si6hatQ4UN2i5gIA2UB2MzdH-2Br-2BflXRAexvXi5Tl2GRpQY1-2Bl8rHyYNMGykTTIeqbBroNgfJYzDetVfyw3PWtrNspsEeju9H4OzUW-2BlaFRifCL9QIcb9qTRq7mzGJt7RpD3-2FNjEAHteYUNKZV9TDV-2FtnLiT2YPqC2LT1UYfoZGJi5kxKNcd7u-2F6dZFT-2BHJT11vsjYGMP8TZGJ5VrApCgTXznZSl52DBMiPa3SFkPumYFPNyrWdYDt0brq7cJyDcEalDHtA16k7xGvdDls9Fs6-2B1paVPf0ubX9fdxqsfC)' option on Olympus. 
+    
+
+Please save the above-mentioned contact details for future communications.
+
+Stay tuned for further updates!
+
+Happy Learning!
+
+Program Office
+
+
+[[PreClass 2 Evolution of Data Science]]
+[[PreClass1 - Intro to Python notes]]
+[[M IT Learning Center]]
+[[Python Resources]]

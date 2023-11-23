@@ -1,0 +1,26 @@
+[## Cut, copy, paste and other common shortcuts](https://support.apple.com/en-us/HT201236)
+
+- **Command-X**: Cut the selected item and copy it to the Clipboard.
+- **Command-C**: copy the selected item to the Clipboard. This also works for files in the Finder.
+- **Command-V**: paste the contents of the Clipboard into the current document or app. This also works for files in the Finder.
+- **Command-Z**: undo the previous command. You can then press Shift-Command-Z to Redo, reversing the undo command. In some apps, you can undo and redo multiple commands.
+- **Command-A**: Select All items.
+- **Command-F**: Find items in a document or open a Find window.
+- **Command-G**: Find Again: find the next occurrence of the item found previously. To find the previous occurrence, press Shift-Command-G.
+- **Command-H**: hide the windows of the front app. To view the front app but hide all other apps, press Option-Command-H.
+- **Command-M**: minimise the front window to the Dock. To minimise all windows of the front app, press Option-Command-M.
+- **Command-O:** Open the selected item or open a dialogue to select a file to open.
+- **Command-P**: Print the current document.
+- **Command-S**: Save the current document.
+- **Command-T**: Open a new tab.
+- **Command-W**: close the front window. To close all windows of the app, press Option-Command-W.
+- **Option-Command-Esc**: [Force quit](https://support.apple.com/en-gb/HT201276) an app.
+- **Command-Space bar**: Show or hide the [Spotlight](https://support.apple.com/en-gb/guide/mac-help/mchlp1008/mac) search field. To perform a Spotlight search from a Finder window, press Command-Option-Space bar. (If you [use multiple input sources](https://support.apple.com/en-gb/guide/mac-help/type-language-mac-input-sources-mchlp1406/mac) to type in different languages, these shortcuts will change input sources instead of showing Spotlight. Find out how to [change a conflicting keyboard shortcut](https://support.apple.com/en-gb/guide/mac-help/mchlp2864/mac).)
+- **Control-Command-Space bar**: Show the Character Viewer, from which you can choose [emoji and other symbols](https://support.apple.com/en-gb/guide/mac-help/mchlp1560/mac).
+- **Control-Command-F**: Use the app in full screen, if supported by the app.
+- **Space bar**: Use [Quick Look](https://support.apple.com/en-gb/guide/mac-help/view-and-edit-files-with-quick-look-mh14119/mac) to preview the selected item.
+- **Command-Tab**: Switch to the next most recently used app amongst your open apps. 
+- **Command-Grave accent (`):** Switch between the windows of the app you're using. (The character on the second key varies by keyboard. It's generally the key above the Tab key and to the left of the number 1.)
+- **Shift-Command-5**: In [macOS Mojave or later](https://support.apple.com/en-gb/HT201260), take a screenshot or make a screen recording. Or use Shift-Command-3 or Shift-Command-4 for screenshots. [Find out more about screenshots](https://support.apple.com/en-gb/HT201361).
+- **Shift-Command-N:** Create a new folder in the Finder.
+- **Command-Comma (,)**: Open preferences for the front app.
